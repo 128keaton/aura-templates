@@ -1,7 +1,7 @@
 {
   "meta": {
     "template_name": "Servers",
-    "category": "None"
+    "category": "Servers"
   },
   "fields": {
     "ram slots": "number",

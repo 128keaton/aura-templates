@@ -6,6 +6,16 @@
   "conditional": {
     "issues": "If any"
   },
+  "tooltips": {
+    "brand": "e.g. Apple",
+    "model": "e.g A0211",
+    "power_adaptor" : "Check this if you have the power cable/adaptor",
+    "serial": "e.g. YM93804X20G",
+    "notes": "Extra stuff for condition or anything else you wanna put on here",
+    "tested/reset" : "happy",
+    "parts": "now",
+    "untestable": "you prick"
+  },
   "fields": {
     "brand": "text",
     "model": "text",
@@ -15,6 +25,10 @@
       "type": "radio",
       "options": [
         "Tested/Reset",
+        "Parts",
+        "Untestable"
+      ],
+      "reason": [
         "Parts",
         "Untestable"
       ]
