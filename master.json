@@ -7,34 +7,34 @@
     "issues": "If any"
   },
   "tooltips": {
-    "brand": "Brand or manufacturer (e.g., Apple or Sony)",
-    "model": "Manufacturer model number (e.g., A1011 or BetaCam SP-100)",
-    "power_adaptor" : "Check this if you have the power cable/adaptor",
-    "serial": "Unit's manufacturer-assigned serial number (e.g., A12B3C)",
-    "notes": "Extra stuff for condition or anything else you wanna put on here",
-    "tested/reset" : "Fully tested and fully functional.  All sensitive data has been removed.",
-    "parts": "The machine is known not to be fully functional, but all sensitive data has been removed or sanitized.  Be sure to list what does/does not work.",
-    "untestable": "Device cannot be fully tested, but does not contain any sensitive data and may be sold 'as-is'.  Be sure to list why the unit is untestable."
+    "Brand": "e.g. Apple",
+    "Model": "e.g A0211",
+    "Power_Adaptor" : "Check this if you have the power cable/adaptor",
+    "Serial": "e.g. YM93804X20G",
+    "Notes": "Extra stuff for condition or anything else you wanna put on here",
+    "tested/reset" : "Device is tested to be fully functional, and all sensitive data has been erased.",
+    "parts": "Device did not pass testing but may have parts value, or device may be more valuable as parts.  Note reason for classification (missing functionality or parts, etc).",
+    "untestable": "Device is untestable, either fully or beyond a basic power test.  Be sure to note reason for being untestable."
   },
   "fields": {
-    "brand": "text",
-    "model": "text",
-    "power adaptor" : "checkbox",
+    "Brand": "text",
+    "Model": "text",
+    "Power Adaptor" : "checkbox",
     "yield": "insertion",
-    "condition": {
+    "Condition": {
       "type": "radio",
       "options": [
         "Tested/Reset",
         "Parts",
         "Untestable"
       ],
-      "reason": [
+      "condition_reason": [
         "Parts",
         "Untestable"
       ]
     },
-    "serial": "text",
-    "date": "date",
-    "notes": "textarea"
+    "Serial": "text",
+    "Date": "date",
+    "Notes": "text"
   }
 }

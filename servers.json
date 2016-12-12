@@ -4,9 +4,9 @@
     "category": "Servers"
   },
   "fields": {
-    "ram slots": "number",
-    "cpu(s)": "number",
-    "cpu brand" : "text",
-    "cpu model": "text"
+    "RAM Slots": "number",
+    "CPU(s)": "number",
+    "CPU Brand" : "text",
+    "CPU Model": "text"
   }
 }
