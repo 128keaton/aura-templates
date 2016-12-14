@@ -4,6 +4,9 @@
     "category": "none",
     "inherit": "servers.json"
   },
+  "rename":{
+    "CPU(s)": "Potato(s)"
+  },
   "fields": {
     "number of ethernet ports": "text",
     "gigabit ethernet?": "checkbox",
