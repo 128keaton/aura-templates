@@ -4,7 +4,7 @@
     "category": "None"
   },
   "fields": {
-    "lamp hours": "number",
-    "filter hours": "number"
+    "Lamp hours": "number",
+    "Filter hours": "number"
   }
 }

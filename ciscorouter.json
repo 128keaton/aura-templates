@@ -8,8 +8,8 @@
     "CPU(s)": "Potato(s)"
   },
   "fields": {
-    "number of ethernet ports": "text",
-    "gigabit ethernet?": "checkbox",
+    "Number of ethernet ports": "text",
+    "Gigabit ethernet?": "checkbox",
     "IOS version": "text"
   }
 }
