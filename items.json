@@ -4,6 +4,6 @@
         "projectors": "projectors.json",
         "cisco switches": "ciscoswitch.json",
         "cisco routers": "ciscorouter.json",
-        "general": "master.json"
+        "general": "general.json"
     }
 }
