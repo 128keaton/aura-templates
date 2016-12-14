@@ -1,7 +1,8 @@
 {
   "meta": {
     "template_name": "Cisco Switch",
-    "category": "none"
+    "category": "none",
+    "brand": "Cisco"
   },
   "fields": {
     "Number of ethernet ports": "text",
