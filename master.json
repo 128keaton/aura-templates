@@ -34,7 +34,6 @@
       ]
     },
     "Serial": "text",
-    "Date": "date",
     "Notes": "text"
   }
 }
