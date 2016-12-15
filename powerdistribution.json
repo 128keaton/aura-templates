@@ -1,0 +1,10 @@
+{
+	"meta": {
+		"template_name": "Template",
+		"category": "Category"
+	},
+	"fields": {
+		"Number of Outlets": "text",
+		"Voltage": "text"
+	}
+}
