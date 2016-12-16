@@ -6,15 +6,10 @@
   "conditional": {
     "issues": "If any"
   },
-  "daughter-fields": {
-    "Non-Standard Power":{
-      "Power Adaptor" : "checkbox"
-    }
-  },
   "tooltips": {
     "Brand": "Manufacturer or brand, such as Apple, Samsung, Cisco, etc",
     "Model": "Model Number and Name (if available), such as ATA 188 Analog Telephone Adapter",
-    "Power_Adaptor" : "Check this if you have the power cable/adaptor",
+    "Power_Adapter" : "Unit either uses standard power adapter, or unit includes adapter",
     "Notes": "Notes about condition, quantity, or useful information for Online Sales",
     "tested/reset" : "Device is tested to be fully functional, and all sensitive data has been erased.",
     "parts": "Device did not pass testing but may have parts value, or device may be more valuable as parts.  Note reason for classification (missing functionality or parts, etc).",
@@ -24,7 +19,7 @@
   "fields": {
     "Brand": "text",
     "Model": "text",
-    "Non-Standard Power" : "checkbox",
+    "Power Adapter" : "checkbox",
     "yield": "insertion",
     "Condition": {
       "type": "radio",
