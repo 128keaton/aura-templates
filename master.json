@@ -6,6 +6,11 @@
   "conditional": {
     "issues": "If any"
   },
+  "daughter-fields": {
+    "Non-Standard Power":{
+      "Power Adaptor" : "checkbox"
+    }
+  },
   "tooltips": {
     "Brand": "Manufacturer or brand, such as Apple, Samsung, Cisco, etc",
     "Model": "Model Number and Name (if available), such as ATA 188 Analog Telephone Adapter",
@@ -19,7 +24,7 @@
   "fields": {
     "Brand": "text",
     "Model": "text",
-    "Power Adaptor" : "checkbox",
+    "Non-Standard Power" : "checkbox",
     "yield": "insertion",
     "Condition": {
       "type": "radio",
