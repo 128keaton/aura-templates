@@ -31,7 +31,11 @@
       "reason": [
         "Parts",
         "Untestable"
-      ]
+      ],
+      "checkbox":{
+        "Parts" : "Basic functionality"
+      }
+
     },
     "Serial": "text",
     "Notes": "text"
