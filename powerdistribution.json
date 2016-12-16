@@ -3,7 +3,7 @@
 		"template_name": "Template",
 		"category": "Category"
 	},
-	"tooltips:": {
+	"tooltips": {
 		"Connector_Type": "Commonly found on the plug itself, examples include L5 120V or L30 240V.  If standard wall currently, note standard"
 	},
 	"fields": {
