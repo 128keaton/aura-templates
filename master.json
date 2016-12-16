@@ -7,11 +7,10 @@
     "issues": "If any"
   },
   "tooltips": {
-    "Brand": "e.g. Apple",
-    "Model": "e.g A0211",
+    "Brand": "Manufacturer or brand, such as Apple, Samsung, Cisco, etc",
+    "Model": "Model Number and Name (if available), such as ATA 188 Analog Telephone Adapter",
     "Power_Adaptor" : "Check this if you have the power cable/adaptor",
-    "Serial": "e.g. YM93804X20G",
-    "Notes": "Extra stuff for condition or anything else you wanna put on here",
+    "Notes": "Notes about condition, quantity, or useful information for Online Sales",
     "tested/reset" : "Device is tested to be fully functional, and all sensitive data has been erased.",
     "parts": "Device did not pass testing but may have parts value, or device may be more valuable as parts.  Note reason for classification (missing functionality or parts, etc).",
     "untestable": "Device is untestable, either fully or beyond a basic power test.  Be sure to note reason for being untestable."
@@ -37,7 +36,6 @@
       }
 
     },
-    "Serial": "text",
     "Notes": "text"
   }
 }
