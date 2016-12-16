@@ -2,7 +2,6 @@
   "meta": {
     "template_name": "Cisco Routers",
     "category": "none",
-    "inherit": "servers.json",
     "brand": "Cisco"
   },
   "rename":{
