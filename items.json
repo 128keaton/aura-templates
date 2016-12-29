@@ -6,6 +6,7 @@
         "cisco routers": "ciscorouter.json",
         "general": "general.json",
 	"power distribution": "powerdistribution.json",
-  "switch": "switch.json"
+  "switch": "switch.json",
+  "san": "san.json"
     }
 }
