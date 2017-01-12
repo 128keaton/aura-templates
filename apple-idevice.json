@@ -19,7 +19,7 @@
 			"30-pin",
 			"Lightning"
 		]
-	}
+	},
 	"fields": {
 		"Firmware version": "text",
 		"Connector type": "dropdown",
