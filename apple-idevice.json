@@ -1,16 +1,16 @@
 {
-  "meta": {
-    "template_name": "iDevice",
-    "category": "none"
-  },
-  "tooltips": {
+	"meta": {
+		"template_name": "iDevice",
+		"category": "none"
+	},
+	"tooltips": {
 		"Firmware version": "Version reported in Settings->General->About, e.g. 7.1.2",
 		"Connector type": "Should be either 30-pin or Lightning",
-    "Device type": "e.g. iPhone, iPod, iPad"
+		"Device type": "e.g. iPhone, iPod, iPad"
 	},
-  "fields": {
-    "Firmware version": "text",
-    "Connector type": "text",
-    "Device type": "text"
-  }
+	"fields": {
+		"Firmware version": "text",
+		"Connector type": "text",
+		"Device type": "text"
+	}
 }
