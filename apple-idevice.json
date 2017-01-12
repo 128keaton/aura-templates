@@ -10,15 +10,15 @@
 		"Device type": "e.g. iPhone, iPod, iPad"
 	},
 	"dropdowns":{
-		"Device type":{
+		"Device type":[
 			"iPhone",
 			"iPod",
 			"iPad"
-		},
-		"Connector type":{
+		],
+		"Connector type":[
 			"30-pin",
 			"Lightning"
-		}
+		]
 	}
 	"fields": {
 		"Firmware version": "text",
