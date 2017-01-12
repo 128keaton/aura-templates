@@ -1,7 +1,8 @@
 {
 	"meta": {
 		"template_name": "iDevice",
-		"category": "none"
+		"category": "none",
+		"brand": "Apple"
 	},
 	"tooltips": {
 		"Firmware version": "Version reported in Settings->General->About, e.g. 7.1.2",
