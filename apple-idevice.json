@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "template_name": "iDevice",
+    "category": "none"
+  },
+  "fields": {
+    "Firmware Version": "text",
+    "Connector type": "text",
+    "Device Type": "text"
+  }
+}
