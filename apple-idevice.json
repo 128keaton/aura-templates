@@ -2,7 +2,8 @@
 	"meta": {
 		"template_name": "iDevice",
 		"category": "none",
-		"brand": "Apple"
+		"brand": "Apple",
+		"description": "For Apple devices such as iPads, iPods, iPhones, etc"
 	},
 	"tooltips": {
 		"Firmware version": "Version reported in Settings->General->About, e.g. 7.1.2",
