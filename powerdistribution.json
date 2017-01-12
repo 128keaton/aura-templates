@@ -1,7 +1,8 @@
 {
 	"meta": {
-		"template_name": "Template",
-		"category": "Category"
+		"template_name": "PDUs",
+		"category": "Category",
+		"description": "Used for power rails and such"
 	},
 	"tooltips": {
 		"Amperage": "Maximum amperage rating of the unit, usually either AMP or A",
