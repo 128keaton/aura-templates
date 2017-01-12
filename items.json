@@ -9,8 +9,5 @@
 		"switch": "switch.json",
 		"san": "san.json",
 		"iDevice": "apple-idevice.json"
-	},
-	"descriptions": {
-		"iDevice": "For Apple devices such as iPads, iPods, iPhones, etc"
 	}
 }
