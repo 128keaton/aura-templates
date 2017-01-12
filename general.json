@@ -1,6 +1,7 @@
 {
  "meta": {
     "template_name": "General",
-    "category": "None"
+    "category": "None",
+     "description": "A catch-all template for stuff that doesn't exist"
   }
 }
