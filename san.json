@@ -1,20 +1,26 @@
 {
-  "meta": {
-    "template_name": "SAN",
-    "category": "none"
-  },
+    "meta": {
+        "template_name": "SAN",
+        "category": "none"
+    },
 
-  "fields": {
-    "SATA": "checkbox",
-    "SAS": "checkbox",
-    "Fibre Channel ports": "number",
-    "RAID 0": "checkbox",
-    "RAID 1": "checkbox",
-    "RAID 1+0 (10)": "checkbox",
-    "RAID 2": "checkbox",
-    "RAID 3": "checkbox",
-    "RAID 4": "checkbox",
-    "RAID 5": "checkbox",
-    "RAID 6": "checkbox"
-  }
+    "groups": {
+        "RAID": {
+            "RAID 0": "checkbox-group",
+            "RAID 1": "checkbox-group",
+            "RAID 1+0 (10)": "checkbox-group",
+            "RAID 2": "checkbox-group",
+            "RAID 3": "checkbox-group",
+            "RAID 4": "checkbox-group",
+            "RAID 5": "checkbox-group",
+            "RAID 5+0": "checkbox-group",
+            "RAID 6": "checkbox-group"
+        }
+    },
+    "fields": {
+        "SATA": "checkbox",
+        "SAS": "checkbox",
+        "Fibre Channel ports": "number",
+        "RAID": "RAID-group"
+    }
 }
